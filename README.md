@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <div style="float: right; margin-left: 20px;">
-  <img src="https://media.licdn.com/dms/image/D5622AQEJY0pFbymcVQ/feedshare-shrink_2048_1536/0/1683390927114?e=1691625600&v=beta&t=rO_2lvxtcH-jWPl038_Ww_Y6NpoWrBhj6-abD3BRD8E" alt="Jedi Knight" width="300">
+  <img src="https://media.licdn.com/dms/image/D5622AQEJY0pFbymcVQ/feedshare-shrink_2048_1536/0/1683390927114?e=1691625600&v=beta&t=rO_2lvxtcH-jWPl038_Ww_Y6NpoWrBhj6-abD3BRD8E" alt="banner that says Mark Tschopp alongside a pic of me in Jedi Knight costume" width="300">
 </div>
 
 ## I'm the Star Wars Scientist
 
-I'm a Jedi Knight of Science, harnessing the power of high performance, people development, and organizational processes in the pursuit of knowledge and innovation. Join me on a journey through the galaxy of materials science, machine learning, and more!
+I'm a Jedi Knight of Science who is passionate about harnessing the power of high performance, empowering people to rise up, and utilizing organizational processes in the pursuit of scientific knowledge and innovation. Join me on a journey through the galaxy of materials science, machine learning, and more!
 
-**From Tatooine to Beyond**
+**From Tatooine to Beyond** 🌎
 
 - ✨ **Education:** With my lightsaber of knowledge, I have successfully defended my PhD dissertation at the Jedi Temple of Georgia Tech, earning the prestigious Best PhD Dissertation award akin to receiving a Jedi Council commendation.
 - 📚 **Publications:** I've battled the dark side of scientific publishing with over 100 peer-reviewed scientific publications, akin to wielding a lightsaber against Sith Lords of ignorance.
