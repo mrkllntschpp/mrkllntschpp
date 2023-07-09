@@ -15,16 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-As a senior leader and research scientist at the Army Research Laboratory, I'm a Jedi Knight of Science, harnessing the power of high performance, people development, and organizational processes in the pursuit of knowledge and innovation. Join me on a journey through the galaxy of materials science, machine learning, and more!
-
-## Senior Leader | Scientist at DEVCOM Army Research Laboratory | Educator
-
-<!--![Jedi Knight](https://example.com/jedi_knight_image.jpg)-->
-
 ## Introduction
 
-As a senior leader and research scientist at the Army Research Laboratory, I thrive at the intersection of high performance, people development, and organizational processes.
+As a senior leader and research scientist at the Army Research Laboratory, I'm a Jedi Knight of Science, harnessing the power of high performance, people development, and organizational processes in the pursuit of knowledge and innovation. Join me on a journey through the galaxy of materials science, machine learning, and more!
 
 ## Background
 
