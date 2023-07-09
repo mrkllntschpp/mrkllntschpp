@@ -19,7 +19,7 @@ Senior Leader | Scientist at DEVCOM Army Research Laboratory | Educator: Award-w
 
 As a senior leader and research scientist at the Army Research Laboratory, I thrive at the intersection of high performance, people development, and organizational processes.
 
-My background includes:
+My background:
 * Education: BS, MS, PhD in Materials Science & Engineering | Georgia Tech Best PhD dissertation award
 * Publications: 100+ peer-reviewed scientific publications | 180 total
 * Presentations: 200+ talks and seminars | 160 of them invited 
@@ -28,6 +28,8 @@ My background includes:
 * Transition: Successfully transitioned R&D projects to industrial implementation
 * Recognition: Fellow in ASM (Materials Society), ASME (Mechanical Engineering Society), and Army Research Laboratory
 * Diverse background: Experience in industry, academia, and national laboratories across the full range of S&T positions
-* Leadership: Situational leadership approach, passionate about leadership, influence through six forms of power, technical leadership, Workforce Enrichment, Recruitment, Retention, and Diversity/Equity/Inclusion/Accessibility
+
+📫 How to reach me:
+[LinkedIn](https://www.linkedin.com/in/mark-tschopp/)
 
 Want to know more? I'm an extrovert, so let's have a conversation! 💬 Feel free to reach out if you'd like to learn more or discuss potential collaborations.
