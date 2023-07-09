@@ -22,7 +22,7 @@ As a senior leader and research scientist at the Army Research Laboratory, I'm a
 
 ## Senior Leader | Scientist at DEVCOM Army Research Laboratory | Educator
 
-![Jedi Knight](https://example.com/jedi_knight_image.jpg)
+<!--![Jedi Knight](https://example.com/jedi_knight_image.jpg)-->
 
 ## Introduction
 
