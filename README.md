@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Jedi Knight](https://media.licdn.com/dms/image/D5622AQEJY0pFbymcVQ/feedshare-shrink_2048_1536/0/1683390927114?e=1691625600&v=beta&t=rO_2lvxtcH-jWPl038_Ww_Y6NpoWrBhj6-abD3BRD8E)
+
 ## Introduction
 
 As a senior leader and research scientist at the Army Research Laboratory, I'm a Jedi Knight of Science, harnessing the power of high performance, people development, and organizational processes in the pursuit of knowledge and innovation. Join me on a journey through the galaxy of materials science, machine learning, and more!
