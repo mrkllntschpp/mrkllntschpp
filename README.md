@@ -29,7 +29,7 @@ I'm a Jedi Knight of Science who is passionate about harnessing the power of hig
 - 📚 **Publications:** I've battled the dark side of scientific publishing with over 100 peer-reviewed scientific publications, akin to wielding a lightsaber against Sith Lords of ignorance.
 - 🎙️ **Presentations:** Delivered over 200 talks and seminars, including 160 invited presentations, captivating audiences like a Jedi Master using the Force.
 - 📖 **Citations:** The Force is strong with my research, which has amassed over 7000 citations, allowing me to wield an h-index of 45 like a Jedi Master's command over the Force.
-- 🎓 **Educator:** I've trained over 2000 participants, guiding them through the Force-sensitive realm of machine learning with a Star Wars twist. Join the Rebel Alliance of knowledge and become a Jedi Knight of ML!
+- 🎓 **Educator:** I've trained over 2000 ML Padawans, guiding them through the Force-sensitive realm of machine learning with a Star Wars twist. Join the Rebel Alliance of knowledge and become a Jedi Knight of ML!
 - ⚡ **Transition:** Successfully transitioned R&D projects to industrial implementation, bringing the power of the Force into real-world applications.
 - 🏆 **Recognition:** I am honored to be recognized as a Fellow in ASM (Materials Society), ASME (Mechanical Engineering Society), and the esteemed Army Research Laboratory, akin to achieving Jedi Master status in the Order.
 - 🌌 **Diverse background:** With experience spanning across industry, academia, and national laboratories, I've embraced the light side of science in various S&T positions, bringing balance to the Force.
