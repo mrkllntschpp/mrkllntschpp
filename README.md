@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div style="float: right; margin-left: 20px;">
-  <img src="https://media.licdn.com/dms/image/D5622AQEJY0pFbymcVQ/feedshare-shrink_2048_1536/0/1683390927114?e=1691625600&v=beta&t=rO_2lvxtcH-jWPl038_Ww_Y6NpoWrBhj6-abD3BRD8E" alt="banner that says Mark Tschopp alongside a pic of me in Jedi Knight costume" width="300">
+  <img src="jediMark.png" alt="banner that says Mark Tschopp alongside a pic of me in Jedi Knight costume" width="600">
 </div>
 
 ## I'm the Star Wars Scientist
