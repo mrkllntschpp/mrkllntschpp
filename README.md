@@ -34,6 +34,11 @@ I'm a Jedi Knight of Science who is passionate about harnessing the power of hig
 - 🏆 **Recognition:** I am honored to be recognized as a Fellow in ASM (Materials Society), ASME (Mechanical Engineering Society), and the esteemed Army Research Laboratory, akin to achieving Jedi Master status in the Order.
 - 🌌 **Diverse background:** With experience spanning across industry, academia, and national laboratories, I've embraced the light side of science in various S&T positions, bringing balance to the Force.
 
+**Check out these repositories**
+- [Machine Learning for Everyone: May The Fourth Be With You! course](https://github.com/mrkllntschpp/Machine-Learning-For-Everyone)
+- [LAMMPS tutorials: Atomistic simulations for Beginners](https://github.com/mrkllntschpp/lammps-tutorials)
+- [My rad Github profile page](https://github.com/mrkllntschpp/mrkllntschpp)
+
 **Contact Me**
 
 📫 Looking to contact me? Send a transmission via the holocommunicator or reach out through the Force at [LinkedIn](https://www.linkedin.com/in/mark-tschopp/)
