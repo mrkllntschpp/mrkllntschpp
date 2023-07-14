@@ -37,7 +37,7 @@ I'm a Jedi Knight of Science who is passionate about harnessing the power of hig
 **Check out these repositories**
 - [Machine Learning for Everyone: May The Fourth Be With You! course](https://github.com/mrkllntschpp/Machine-Learning-For-Everyone)
 - [LAMMPS tutorials: Atomistic simulations for Beginners](https://github.com/mrkllntschpp/lammps-tutorials)
-- [My rad Github profile page](https://github.com/mrkllntschpp/mrkllntschpp)
+- [My out-of-this-galaxy Github profile page](https://github.com/mrkllntschpp/mrkllntschpp)
 
 **Contact Me**
 
