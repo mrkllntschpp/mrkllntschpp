@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="jediMark.jpg" alt="banner that says Mark Tschopp alongside a pic of me in Jedi Knight costume" width="100%">
 </div>
 
-## the original Star Wars scientist
+## the Star Wars scientist
 
 I'm a Jedi Knight of Science who is passionate about harnessing the power of high performance, empowering people to rise up, and utilizing organizational processes in the pursuit of scientific knowledge and innovation. Join me on a journey through the galaxy of materials science, machine learning, and more!
 
