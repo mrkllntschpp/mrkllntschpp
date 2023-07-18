@@ -38,6 +38,7 @@ I'm a Jedi Knight of Science who is passionate about harnessing the power of hig
 - [Machine Learning for Everyone: May The Fourth Be With You! course](https://github.com/mrkllntschpp/Machine-Learning-For-Everyone)
 - [LAMMPS tutorials: Atomistic simulations for Beginners](https://github.com/mrkllntschpp/lammps-tutorials)
 - [My out-of-this-galaxy Github profile page](https://github.com/mrkllntschpp/mrkllntschpp)
+- Work in Progress, [Science of Science Innovation]()
 
 **Contact Me**
 
